@@ -1,0 +1,112 @@
+.
+├── archetypes
+│   └── default.md
+├── config.toml
+├── content
+│   ├── about.md
+│   ├── archives.md
+│   ├── _index.md
+│   └── post
+│       ├── emoji-support.md
+│       ├── _index.md
+│       ├── markdown-syntax.md
+│       ├── math-typesetting.mmark
+│       └── placeholder-text.md
+├── data
+├── layouts
+│   ├── 404.html
+│   ├── _default
+│   │   ├── baseof.html
+│   │   ├── list.html
+│   │   └── single.html
+│   ├── index.html
+│   ├── partials
+│   │   ├── categories.html
+│   │   ├── copyright.html
+│   │   ├── footer.html
+│   │   ├── header.html
+│   │   ├── head.html
+│   │   ├── scripts.html
+│   │   └── tags.html
+│   └── taxonomy
+│       ├── category.html
+│       └── tag.html
+├── public
+├── resources
+│   └── _gen
+│       ├── assets
+│       └── images
+├── static
+│   └── favicon.ico
+├── themes
+│   └── hugo.386
+│       ├── archetypes
+│       │   └── default.md
+│       ├── exampleSite
+│       ├── i18n
+│       │   ├── en.toml
+│       │   └── fr.toml
+│       ├── images
+│       │   ├── screenshot.png
+│       │   └── tn.png
+│       ├── layouts
+│       │   ├── 404.html
+│       │   ├── _default
+│       │   │   ├── baseof.html
+│       │   │   ├── list.html
+│       │   │   └── single.html
+│       │   ├── index.html
+│       │   ├── partials
+│       │   │   ├── categories.html
+│       │   │   ├── copyright.html
+│       │   │   ├── footer.html
+│       │   │   ├── header.html
+│       │   │   ├── head.html
+│       │   │   ├── scripts.html
+│       │   │   └── tags.html
+│       │   └── taxonomy
+│       │       ├── category.html
+│       │       └── tag.html
+│       ├── LICENSE
+│       ├── README.md
+│       ├── static
+│       │   ├── css
+│       │   │   ├── bootstrap.css
+│       │   │   ├── bootstrap-responsive.css
+│       │   │   ├── docs.css
+│       │   │   ├── fonts
+│       │   │   │   ├── Fixedsys500c.eot
+│       │   │   │   ├── Fixedsys500c.otf
+│       │   │   │   ├── Fixedsys500c.svg
+│       │   │   │   ├── Fixedsys500c.ttf
+│       │   │   │   └── Fixedsys500c.woff
+│       │   │   └── style.css
+│       │   ├── img
+│       │   │   ├── 8x5overlay.png
+│       │   │   ├── dos-grid.png
+│       │   │   └── ega16-palette.png
+│       │   └── js
+│       │       ├── application.js
+│       │       ├── bootstrap-386.js
+│       │       ├── bootstrap-affix.js
+│       │       ├── bootstrap-alert.js
+│       │       ├── bootstrap-button.js
+│       │       ├── bootstrap-carousel.js
+│       │       ├── bootstrap-collapse.js
+│       │       ├── bootstrap-dropdown.js
+│       │       ├── bootstrap.js
+│       │       ├── bootstrap.min.js
+│       │       ├── bootstrap-modal.js
+│       │       ├── bootstrap-popover.js
+│       │       ├── bootstrap-scrollspy.js
+│       │       ├── bootstrap-tab.js
+│       │       ├── bootstrap-tooltip.js
+│       │       ├── bootstrap-transition.js
+│       │       ├── bootstrap-typeahead.js
+│       │       ├── html5shiv.js
+│       │       ├── jquery.js
+│       │       └── README.md
+│       └── theme.toml
+└── tree
+
+29 directories, 80 files
